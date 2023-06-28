@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "epivizrData"]
 	path = epivizrData
 	url = https://github.com/epiviz/epivizrdata
-	shallow = true
-	registered = true
 [submodule "epivizrServer"]
 	path = epivizrServer
 	url = https://github.com/epiviz/epivizrserver
-	shallow = true
-	registered = true
